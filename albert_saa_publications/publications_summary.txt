@@ -1,0 +1,138 @@
+Albert Saà Garriga - Publications Summary
+==================================================
+
+KNOWN PAPERS
+--------------------
+1. GSta: Efficient Training Scheme with Siestaed Gaussians for Monocular 3D Scene Reconstruction
+   Authors: Anil Armagan, Albert Saà-Garriga, Bruno Manganelli, Kyuwon Kim, M. Kerim Yucel
+   arXiv ID: http://arxiv.org/abs/2504.06716v1
+   PDF URL: https://arxiv.org/pdf/2504.06716v1
+
+2. Rethinking Encoder-Decoder Flow Through Shared Structures
+   Authors: Frederik Laboyrie, Mehmet Kerim Yucel, Albert Saa-Garriga
+   arXiv ID: http://arxiv.org/abs/2501.14535v1
+   PDF URL: https://arxiv.org/pdf/2501.14535v1
+
+3. Trick-GS: A Balanced Bag of Tricks for Efficient Gaussian Splatting
+   Authors: Anil Armagan, Albert Saà-Garriga, Bruno Manganelli, Mateusz Nowak, Mehmet Kerim Yucel
+   arXiv ID: http://arxiv.org/abs/2501.14534v1
+   PDF URL: https://arxiv.org/pdf/2501.14534v1
+
+4. CheapNVS: Real-Time On-Device Narrow-Baseline Novel View Synthesis
+   Authors: Konstantinos Georgiadis, Mehmet Kerim Yucel, Albert Saa-Garriga
+   arXiv ID: http://arxiv.org/abs/2501.14533v1
+   PDF URL: https://arxiv.org/pdf/2501.14533v1
+
+5. Finding Waldo: Towards Efficient Exploration of NeRF Scene Spaces
+   Authors: Evangelos Skartados, Mehmet Kerim Yucel, Bruno Manganelli, Anastasios Drosou, Albert Saà-Garriga
+   arXiv ID: http://arxiv.org/abs/2403.04508v2
+   PDF URL: https://arxiv.org/pdf/2403.04508v2
+
+6. TrickVOS: A Bag of Tricks for Video Object Segmentation
+   Authors: Evangelos Skartados, Konstantinos Georgiadis, Mehmet Kerim Yucel, Koskinas Ioannis, Armando Domi, Anastasios Drosou, Bruno Manganelli, Albert Saa-Garriga
+   arXiv ID: http://arxiv.org/abs/2306.15377v2
+   PDF URL: https://arxiv.org/pdf/2306.15377v2
+
+7. LP-IOANet: Efficient High Resolution Document Shadow Removal
+   Authors: Konstantinos Georgiadis, M. Kerim Yucel, Evangelos Skartados, Valia Dimaridou, Anastasios Drosou, Albert Saa-Garriga, Bruno Manganelli
+   arXiv ID: http://arxiv.org/abs/2303.12862v1
+   PDF URL: https://arxiv.org/pdf/2303.12862v1
+
+8. MobileVOS: Real-Time Video Object Segmentation Contrastive Learning meets Knowledge Distillation
+   Authors: Roy Miles, Mehmet Kerim Yucel, Bruno Manganelli, Albert Saa-Garriga
+   arXiv ID: http://arxiv.org/abs/2303.07815v1
+   PDF URL: https://arxiv.org/pdf/2303.07815v1
+
+9. Adaptive Mask-based Pyramid Network for Realistic Bokeh Rendering
+   Authors: Konstantinos Georgiadis, Albert Saà-Garriga, Mehmet Kerim Yucel, Anastasios Drosou, Bruno Manganelli
+   arXiv ID: http://arxiv.org/abs/2210.16078v1
+   PDF URL: https://arxiv.org/pdf/2210.16078v1
+
+10. Real-time Monocular Depth Estimation with Sparse Supervision on Mobile
+   Authors: Mehmet Kerim Yucel, Valia Dimaridou, Anastasios Drosou, Albert Saà-Garriga
+   arXiv ID: http://arxiv.org/abs/2105.12053v1
+   PDF URL: https://arxiv.org/pdf/2105.12053v1
+
+
+OTHER PAPERS
+--------------------
+1. Energy Efficiency of Many-Soft-Core Processors
+   Authors: David Castells-Rufas, Albert Saa-Garriga, Jordi Carrabina
+   arXiv ID: http://arxiv.org/abs/1601.07133v1
+   PDF URL: https://arxiv.org/pdf/1601.07133v1
+
+2. OMP2HMPP: Compiler Framework for Energy Performance Trade-off Analysis of Automatically Generated Codes
+   Authors: Albert Saà-Garriga, David Castells-Rufas, Jordi Carrabina
+   arXiv ID: http://arxiv.org/abs/1506.02833v1
+   PDF URL: https://arxiv.org/pdf/1506.02833v1
+
+3. OMP2MPI: Automatic MPI code generation from OpenMP programs
+   Authors: Albert Saa-Garriga, David Castells-Rufas, Jordi Carrabina
+   arXiv ID: http://arxiv.org/abs/1502.02921v2
+   PDF URL: https://arxiv.org/pdf/1502.02921v2
+
+4. Proceedings of the Workshop on High Performance Energy Efficient Embedded Systems (HIP3ES) 2015
+   Authors: Francisco Corbera, Andrés Rodríguez, Rafael Asenjo, Angeles Navarro, Antonio Vilches, Maria Garzaran, Ismat Chaib Draa, Jamel Tayeb, Smail Niar, Mikael Desertot, Daniel Gregorek, Robert Schmidt, Alberto Garcia-Ortiz, Pedro Lopez-Garcia, Rémy Haemmerlé, Maximiliano Klemen, Umer Liqat, Manuel V. Hermenegildo, Radim Vavřík, Albert Saà-Garriga, David Castells-Rufas, Jordi Carrabina
+   arXiv ID: http://arxiv.org/abs/1501.03064v1
+   PDF URL: https://arxiv.org/pdf/1501.03064v1
+
+5. OMP2HMPP: HMPP Source Code Generation from Programs with Pragma Extensions
+   Authors: Albert Saà-Garriga, David Castells-Rufas, Jordi Carrabina
+   arXiv ID: http://arxiv.org/abs/1407.6932v1
+   PDF URL: https://arxiv.org/pdf/1407.6932v1
+
+6. Sloan Digital Sky Survey-V: Pioneering Panoptic Spectroscopy
+   Authors: Juna A. Kollmeier, Hans-Walter Rix, Conny Aerts, James Aird, Pablo Vera Alfaro, Andrés Almeida, Scott F. Anderson, Óscar Jiménez Arranz, Stefan M. Arseneau, Roberto Assef, Shir Aviram, Catarina Aydar, Carles Badenes, Avrajit Bandyopadhyay, Kat Barger, Robert H. Barkhouser, Franz E. Bauer, Chad Bender, Felipe Besser, Binod Bhattarai, Pavaman Bilgi, Jonathan Bird, Dmitry Bizyaev, Guillermo A. Blanc, Michael R. Blanton, John Bochanski, Jo Bovy, Christopher Brandon, William Nielsen Brandt, Joel R. Brownstein, Johannes Buchner, Joseph N. Burchett, Joleen Carlberg, Andrew R. Casey, Lesly Castaneda-Carlos, Priyanka Chakraborty, Julio Chanamé, Vedant Chandra, Brian Cherinka, Igor Chilingarian, Johan Comparat, Maren Cosens, Kevin Covey, Jeffrey D. Crane, Nicole R. Crumpler, Katia Cunha, Tim Cunningham, Xinyu Dai, Jeremy Darling, James W. Davidson, Megan C. Davis, Nathan De Lee, Niall Deacon, José Eduardo Méndez Delgado, Sebastian Demasi, Mariia Demianenko, Mark Derwent, Elena D'Onghia, Francesco Di Mille, Bruno Dias, John Donor, Niv Drory, Tom Dwelly, Oleg Egorov, Evgeniya Egorova, Kareem El-Badry, Mike Engelman, Mike Eracleous, Xiaohui Fan, Emily Farr, Logan Fries, Peter Frinchaboy, Cynthia S. Froning, Boris T. Gänsicke, Pablo García, Joseph Gelfand, Nicola Pietro Gentile Fusillo, Simon Glover, Katie Grabowski, Eva K. Grebel, Paul J Green, Catherine Grier, Pramod Gupta, Aidan C. Gray, Maximilian Häberle, Patrick B. Hall, Randolph P. Hammond, Keith Hawkins, Albert C. Harding, Viola Hegedűs, Tom Herbst, J. J. Hermes, Paola Rodríguez Hidalgo, Thomas Hilder, David W Hogg, Jon A. Holtzman, Danny Horta, Yang Huang, Hsiang-Chih Hwang, Hector Javier Ibarra-Medel, Julie Imig, Keith Inight, Arghajit Jana, Alexander P. Ji, Paula Jofre, Matt Johns, Jennifer Johnson, James W. Johnson, Evelyn J. Johnston, Amy M Jones, Ivan Katkov, Anton M. Koekemoer, Marina Kounkel, Kathryn Kreckel, Dhanesh Krishnarao, Mirko Krumpe, Nimisha Kumari, Thomas Kupfer, Ivan Lacerna, Chervin Laporte, Sebastien Lepine, Jing Li, Xin Liu, Sarah Loebman, Knox Long, Alexandre Roman-Lopes, Yuxi Lu, Steven Raymond Majewski, Dan Maoz, Kevin A. McKinnon, Ilija Medan, Andrea Merloni, Dante Minniti, Sean Morrison, Natalie Myers, Szabolcs Mészáros, Kirpal Nandra, Prasanta K. Nayak, Melissa K Ness, David L. Nidever, Thomas O'Brien, Micah Oeur, Audrey Oravetz, Daniel Oravetz, Jonah Otto, Gautham Adamane Pallathadka, Povilas Palunas, Kaike Pan, Daniel Pappalardo, Rakesh Pandey, Castalia Alenka Negrete Peñaloza, Marc H. Pinsonneault, Richard W. Pogge, Manuchehr Taghizadeh Popp, Adrian M. Price-Whelan, Nadiia Pulatova, Dan Qiu, Solange Ramirez, Amy Rankine, Claudio Ricci, Jessie C. Runnoe, Sebastian Sanchez, Mara Salvato, Natascha Sattler, Andrew K. Saydjari, Conor Sayres, Kevin C. Schlaufman, Donald P. Schneider, Matthias R. Schreiber, Axel Schwope, Javier Serna, Yue Shen, Cristóbal Sifón, Amrita Singh, Amaya Sinha, Stephen Smee, Ying-Yi Song, Diogo Souto, Keivan G. Stassun, Matthias Steinmetz, Alexander Stone-Martinez, Guy Stringfellow, Amelia Stutz,  José,  Sá,  nchez-Gallego, Jonathan C. Tan, Jamie Tayar, Riley Thai, Ani Thakar, Yuan-Sen Ting, Andrew Tkachenko, Gagik Tovmasian, Benny Trakhtenbrot, José G. Fernández-Trincado, Nicholas Troup, Jonathan Trump, Sarah Tuttle, Roeland P. van der Marel, Sandro Villanova, Jaime Villaseñor, Stefanie Wachter, Zachary Way, Anne-Marie Weijmans, David Weinberg, Adam Wheeler, John Wilson, Alessa I. Wiggins, Tony Wong, Qiaoya Wu, Dominika Wylezalek, Xiang-Xiang Xue, Qian Yang, Nadia Zakamska, Eleonora Zari, Gail Zasowski, Grisha Zeltyn, Catherine Zucker, Carlos G. Román Zúñiga, Rodolfo de J. Zermeño
+   arXiv ID: http://arxiv.org/abs/2507.06989v1
+   PDF URL: https://arxiv.org/pdf/2507.06989v1
+
+7. Model-Preserving Adaptive Rounding
+   Authors: Albert Tseng, Zhaofeng Sun, Christopher De Sa
+   arXiv ID: http://arxiv.org/abs/2505.22988v2
+   PDF URL: https://arxiv.org/pdf/2505.22988v2
+
+8. QTIP: Quantization with Trellises and Incoherence Processing
+   Authors: Albert Tseng, Qingyao Sun, David Hou, Christopher De Sa
+   arXiv ID: http://arxiv.org/abs/2406.11235v4
+   PDF URL: https://arxiv.org/pdf/2406.11235v4
+
+9. QuIP#: Even Better LLM Quantization with Hadamard Incoherence and Lattice Codebooks
+   Authors: Albert Tseng, Jerry Chee, Qingyao Sun, Volodymyr Kuleshov, Christopher De Sa
+   arXiv ID: http://arxiv.org/abs/2402.04396v2
+   PDF URL: https://arxiv.org/pdf/2402.04396v2
+
+10. Coneheads: Hierarchy Aware Attention
+   Authors: Albert Tseng, Tao Yu, Toni J. B. Liu, Christopher De Sa
+   arXiv ID: http://arxiv.org/abs/2306.00392v2
+   PDF URL: https://arxiv.org/pdf/2306.00392v2
+
+11. Shadow Cones: A Generalized Framework for Partial Order Embeddings
+   Authors: Tao Yu, Toni J. B. Liu, Albert Tseng, Christopher De Sa
+   arXiv ID: http://arxiv.org/abs/2305.15215v3
+   PDF URL: https://arxiv.org/pdf/2305.15215v3
+
+12. Beyond the Standard Model Physics at the HL-LHC and HE-LHC
+   Authors: X. Cid Vidal, M. D'Onofrio, P. J. Fox, R. Torre, K. A. Ulmer, A. Aboubrahim, A. Albert, J. Alimena, B. C. Allanach, C. Alpigiani, M. Altakach, S. Amoroso, J. K. Anders, J. Y. Araz, A. Arbey, P. Azzi, I. Babounikau, H. Baer, M. J. Baker, D. Barducci, V. Barger, O. Baron, L. Barranco Navarro, M. Battaglia, A. Bay, D. Bhatia, S. Biswas, D. Bloch, D. Bogavac, C. Borschensky, M. K. Bugge, D. Buttazzo, G. Cacciapaglia, L. Cadamuro, A. Calandri, D. A. Camargo, A. Canepa, L. Carminati, S. Carrá, C. A. Carrillo Montoya, A. Carvalho Antunes De Oliveira, F. L. Castillo, V. Cavaliere, D. Cavalli, C. Cecchi, A. Celis, A. Cerri, G. S. Chahal, A. Chakraborty, S. V. Chekanov, H. J. Cheng, J. T. Childers, M. Cirelli, O. Colegrove, G. Corcella, M. Corradi, M. J. Costa, R. Covarelli, N. P. Dang, A. Deandrea, S. De Curtis, H. De la Torre, L. Delle Rose, D. Del Re, A. Demela, S. Demers, R. Dermisek, A. De Santo, K. Deshpande, B. Dey, J. Donini, A. K. Duncan, V. Dutta, C. Escobar, L. Fanó, G. Ferretti, J. Fiaschi, O. Fischer, T. Flacke, E. D. Frangipane, M. Frank, G. Frattari, D. Frizzell, E. Fuchs, B. Fuks, E. Gabrielli, J. Gainer, Y. Gao, J. E. García Navarro, M. H. Genest, S. Giagu, G. F. Giudice, J. Goh, M. Gouzevitch, P. Govoni, A. Greljo, A. Grohsjean, A. Gurrola, G. Gustavino, C. Guyot, C. B. Gwilliam, S. Ha, U. Haisch, J. Haller, T. Han, D. Hayden, M. Heikinheimo, U. Heintz, C. Helsens, K. Hoepfner, J. M. Hogan, K. Huitu, P. Ilten, V. Ippolito, A. Ismail, A. M. Iyer, Sa. Jain, D. O. Jamin, L. Jeanty, T. Jezo, W. Johns, A. Kalogeropoulos, J. Karancsi, Y. Kats, H. Keller, A. Khanov, J. Kieseler, B. Kim, M. S. Kim, Y. G. Kim, M. Klasen, M. D. Klimek, R. Kogler, J. R. Komaragiri, M. Krämer, S. Kubota, A. K. Kulesza, S. Kulkarni, T. Lari, A. Ledovskoy, G. R. Lee, L. Lee, S. W. Lee, R. Leonardi, R. Les, I. M. Lewis, Q. Li, T. Li, I. T. Lim, S. H. Lim, K. Lin, Z. Liu, K. Long, M. Low, E. Lunghi, D. Madaffari, F. Mahmoudi, D. Majumder, S. Malvezzi, M. L. Mangano, E. Manoni, X. Marcano, A. Mariotti, M. Marjanovic, D. Marlow, J. Martin Camalich, P. Matorras Cuevas, M. McCullough, E. F. McDonald, J. Mejia Guisao, B. Mele, F. Meloni, I. -A. Melzer-Pellmann, C. Merlassino, A. B. Meyer, E. Michielin, A. J. Miller, L. Mittnacht, S. Mondal, S. Moretti, S. Mukhopadhyay, B. P. Nachman, K. Nam, M. Narain, M. Nardecchia, P. Nath, J. Navarro-González, A. Nisati, T. Nitta, D. L. Noel, M. M. Nojiri, J. P. Ochoa-Ricoux, H. Oide, M. L. Ojeda, S. Pagan Griso, E. Palencia Cortezon, O. Panella, P. Pani, L. Panizzi, L. Panwar, C. B. Park, J. Pazzini, K. Pedro, M. M. Perego, L. Perrozzi, B. A. Petersen, A. Pierce, G. Polesello, A. Policicchio, C. J. Potter, P. Pralavorio, M. Presilla, J. Proudfoot, F. S. Queiroz, G. Ramirez-Sanchez, D. Redigolo, A. Reimers, S. Resconi, M. Rimoldi, J. C. Rivera Vergara, T. Rizzo, C. Rogan, F. Romeo, R. Rosten, R. Ruiz, J. Ruiz-Alvarez, J. A. Sabater Iglesias, B. Safarzadeh Samani, S. Sagir, M. Saito, S. Saito, F. Sala, C. Salazar, A. Savin, R. Sawada, S. Sawant, I. Schienbein, M. Schlaffer, B. Schneider, S. C. Schuler, C. D. Sebastiani, S. Sekmen, M. Selvaggi, D. Sengupta, H. Serce, H. Serodio, L. Sestini, B. Shakya, B. Shams Es Haghi, P. Sheldon, S. Shin, F. Simonetto, L. Soffi, M. Spannowsky, J. Stupak, M. J. Sullivan, M. Sunder, Y. Takahashi, X. Tata, H. Teagle, K. Terashi, A. Tesi, A. Thamm, K. Tobioka, P. Tornambe, F. Trovato, D. Tsiakkouri, F. C. Ungaro, A. Urbano, E. Usai, N. Vanegas, L. Vaslin, C. Vázquez Sierra, I. Vivarelli, M. Vranjes Milosavljevic, H. Waltari, R. Wang, X. Wang, M. S. Weber, C. Weiland, M. Wielers, J. M. Williams, S. Willocq, D. Xu, K. Yagyu, E. Yazgan, R. Ye, H. D. Yoo, T. You, F. Yu, G. Zevi Della Porta, W. Zhang, C. Zhu, X. Zhuang, J. Zobec, J. Zupan, J. Zurita
+   arXiv ID: http://arxiv.org/abs/1812.07831v4
+   PDF URL: https://arxiv.org/pdf/1812.07831v4
+
+13. Representation Tradeoffs for Hyperbolic Embeddings
+   Authors: Christopher De Sa, Albert Gu, Christopher Ré, Frederic Sala
+   arXiv ID: http://arxiv.org/abs/1804.03329v2
+   PDF URL: https://arxiv.org/pdf/1804.03329v2
+
+14. A Kernel Theory of Modern Data Augmentation
+   Authors: Tri Dao, Albert Gu, Alexander J. Ratner, Virginia Smith, Christopher De Sa, Christopher Ré
+   arXiv ID: http://arxiv.org/abs/1803.06084v2
+   PDF URL: https://arxiv.org/pdf/1803.06084v2
+
+15. Test Beam Performance Measurements for the Phase I Upgrade of the CMS Pixel Detector
+   Authors: M. Dragicevic, M. Friedl, J. Hrubec, H. Steininger, A. Gädda, J. Härkönen, T. Lampén, P. Luukka, T. Peltola, E. Tuominen, E. Tuovinen, A. Winkler, P. Eerola, T. Tuuva, G. Baulieu, G. Boudoul, L. Caponetto, C. Combaret, D. Contardo, T. Dupasquier, G. Gallbit, N. Lumb, L. Mirabito, S. Perries, M. Vander Donckt, S. Viret, C. Bonnin, L. Charles, L. Gross, J. Hosselet, D. Tromson, L. Feld, W. Karpinski, K. Klein, M. Lipinski, G. Pierschel, M. Preuten, M. Rauch, M. Wlochal, M. Aldaya, C. Asawatangtrakuldee, K. Beernaert, D. Bertsche, C. Contreras-Campana, G. Eckerlin, D. Eckstein, T. Eichhorn, E. Gallo, J. Garay Garcia, K. Hansen, M. Haranko, A. Harb, J. Hauk, J. Keaveney, A. Kalogeropoulos, C. Kleinwort, W. Lohmann, R. Mankel, H. Maser, G. Mittag, C. Muhl, A. Mussgiller, D. Pitzl, O. Reichelt, M. Savitskyi, P. Schütze, V. Sola, S. Spannagel, R. Walsh, A. Zuber, H. Biskop, P. Buhmann, M. Centis-Vignali, E. Garutti, J. Haller, M. Hoffmann, R. Klanner, T. Lapsien, M. Matysek, A. Perieanu, Ch. Scharf, P. Schleper, A. Schmidt, J. Schwandt, J. Sonneveld, G. Steinbrück, B. Vormwald, J. Wellhausen, M. Abbas, C. Amstutz, T. Barvich, Ch. Barth, F. Boegelspacher, W. De Boer, E. Butz, M. Casele, F. Colombo, A. Dierlamm, B. Freund, F. Hartmann, S. Heindl, U. Husemann, A. Kornmeyer, S. Kudella, Th. Muller, H. J. Simonis, P. Steck, M. Weber, Th. Weiler, T. Kiss, F. Siklér, T. Tölyhi, V. Veszprémi, P. Cariola, D. Creanza, M. De Palma, G. De Robertis, L. Fiore, M. Franco, F. Loddo, G. Sala, L. Silvestris, G. Maggi, S. My, G. Selvaggi, S. Albergo, G. Cappello, S. Costa, A. Di Mattia, F. Giordano, R. Potenza, M. A. Saizu, A. Tricomi, C. Tuve, E. Focardi, M. E. Dinardo, S. Fiorendi, S. Gennai, S. Malvezzi, R. A. Manzoni, D. Menasce, L. Moroni, D. Pedrini, P. Azzi, N. Bacchetta, D. Bisello, M. Dall'Osso, N. Pozzobon, M. Tosi, L. Alunni Solestizi, M. Biasini, G. M. Bilei, C. Cecchi, B. Checcucci, D. Ciangottini, L. Fanò, C. Gentsos, M. Ionica, R. Leonardi, E. Manoni, G. Mantovani, S. Marconi, V. Mariani, M. Menichelli, A. Modak, A. Morozzi, F. Moscatelli, D. Passeri, P. Placidi, V. Postolache, A. Rossi, A. Saha, A. Santocchia, L. Storchi, D. Spiga, K. Androsov, P. Azzurri, G. Bagliesi, A. Basti, T. Boccali, L. Borrello, F. Bosi, R. Castaldi, M. Ceccanti, M. A. Ciocci, R. Dell'Orso, S. Donato, G. Fedi, A. Giassi, M. T. Grippo, F. Ligabue, G. Magazzu, P. Mammini, F. Mariani, E. Mazzoni, A. Messineo, A. Moggi, F. Morsani, F. Palla, F. Palmonari, A. Profeti, F. Raffaelli, A. Ragonesi, A. Rizzi, A. Soldani, P. Spagnolo, R. Tenchini, G. Tonelli, A. Venturi, P. G. Verdini, D. Abbaneo, I. Ahmed, E. Albert, G. Auzinger, G. Berruti, J. Bonnaud, J. Daguin, A. D'Auria, S. Detraz, O. Dondelewski, B. Engegaard, F. Faccio, N. Frank, K. Gill, A. Honma, A. Kornmayer, A. Labaza, F. Manolescu, I. McGill, S. Mersi, S. Michelis, A. Onnela, M. Ostrega, S. Pavis, A. Peisert, J. -F. Pernot, P. Petagna, H. Postema, K. Rapacz, C. Sigaud, P. Tropea, J. Troska, A. Tsirou, F. Vasey, B. Verlaat, P. Vichoudis, L. Zwalinski, F. Bachmair, R. Becker, D. di Calafiori, B. Casal, P. Berger, L. Djambazov, M. Donega, C. Grab, D. Hits, J. Hoss, G. Kasieczka, W. Lustermann, B. Mangano, M. Marionneau, P. Martinez Ruiz del Arbol, M. Masciovecchio, M. Meinhard, L. Perozzi, U. Roeser, A. Starodumov, V. Tavolaro, R. Wallny, D. Zhu, K. Bösiger, L. Caminada, F. Canelli, V. Chiochia, A. de Cosa, C. Galloni, T. Hreus, B. Kilminster, C. Lange, R. Maier, J. Ngadiuba, D. Pinna, P. Robmann, S. Taroni, Y. Yang, W. Bertl, K. Deiters, W. Erdmann, R. Horisberger, H. -C. Kaestli, D. Kotlinski, U. Langenegger, B. Meier, T. Rohe, S. Streuli, P. -H. Chen, C. Dietz, F. Fiori, U. Grundler, W. -S. Hou, R. -S. Lu, M. Moya, J. -F. Tsai, Y. M. Tzeng, D. Cussans, J. Goldstein, M. Grimes, D. Newbold, P. Hobson, I. D. Reid, G. Auzinger, R. Bainbridge, P. Dauncey, G. Hall, T. James, A. -M. Magnan, M. Pesaresi, D. M. Raymond, K. Uchida, T. Durkin, K. Harder, C. Shepherd-Themistocleous, M. Chertok, J. Conway, R. Conway, C. Flores, R. Lander, D. Pellett, F. Ricci-Tam, M. Squires, J. Thomson, R. Yohay, K. Burt, J. Ellison, G. Hanson, M. Olmedo, W. Si, B. R. Yates, A. Dominguez, R. Bartek, B. Bentele, J. P. Cumalat, W. T. Ford, F. Jensen, A. Johnson, M. Krohn, S. Leontsinis, T. Mulholland, K. Stenson, S. R. Wagner, A. Apresyan, G. Bolla, K. Burkett, J. N. Butler, A. Canepa, H. W. K. Cheung, D. Christian, W. E. Cooper, G. Deptuch, G. Derylo, C. Gingu, S. Grünendahl, S. Hasegawa, J. Hoff, J. Howell, M. Hrycyk, S. Jindariani, M. Johnson, F. Kahlid, S. Kwan, C. M. Lei, R. Lipton, R. Lopes De Sá, T. Liu, S. Los, M. Matulik, P. Merkel, S. Nahn, A. Prosser, R. Rivera, B. Schneider, G. Sellberg, A. Shenai, K. Siehl, L. Spiegel, N. Tran, L. Uplegger, E. Voirin, D. R. Berry, X. Chen, L. Ennesser, A. Evdokimov, C. E. Gerber, S. Makauda, C. Mills, I. D. Sandoval Gonzalez, J. Alimena, L. J. Antonelli, B. Francis, A. Hart, C. S. Hill, N. Parashar, J. Stupak, D. Bortoletto, M. Bubna, N. Hinton, M. Jones, D. H. Miller, X. Shi, P. Baringer, A. Bean, S. Khalil, A. Kropivnitskaya, D. Majumder, E. Schmitz, G. Wilson, A. Ivanov, R. Mendis, T. Mitchell, N. Skhirtladze, R. Taylor, I. Anderson, D. Fehling, A. Gritsan, P. Maksimovic, C. Martin, K. Nash, M. Osherson, M. Swartz, M. Xiao, J. G. Acosta, L. M. Cremaldi, S. Oliveros, L. Perera, D. Summers, K. Bloom, D. R. Claes, C. Fangmeier, R. Gonzalez Suarez, J. Monroy, J. Siado, E. Bartz, Y. Gershtein, E. Halkiadakis, S. Kyriacou, A. Lath, K. Nash, M. Osherson, S. Schnetzer, R. Stone, M. Walker, S. Malik, S. Norberg, J. E. Ramirez Vargas, M. Alyari, J. Dolen, A. Godshalk, C. Harrington, I. Iashvili, A. Kharchilava, D. Nguyen, A. Parker, S. Rappoccio, B. Roozbahani, J. Alexander, J. Chaves, J. Chu, S. Dittmer, K. McDermott, N. Mirman, A. Rinkevicius, A. Ryd, E. Salvati, L. Skinnari, L. Soffi, Z. Tao, J. Thom, J. Tucker, M. Zientek, B. Akgün, K. M. Ecklund, M. Kilpatrick, T. Nussbaum, J. Zabel, P. D'Angelo, W. Johns, K. Rose
+   arXiv ID: http://arxiv.org/abs/1706.00222v1
+   PDF URL: https://arxiv.org/pdf/1706.00222v1
+
+16. A Two Pronged Progress in Structured Dense Matrix Multiplication
+   Authors: Christopher De Sa, Albert Gu, Rohan Puttagunta, Christopher Ré, Atri Rudra
+   arXiv ID: http://arxiv.org/abs/1611.01569v3
+   PDF URL: https://arxiv.org/pdf/1611.01569v3
+
